@@ -1,7 +1,7 @@
 title: Highly Unlikely
 author: Tobias Pielok
 email: tpielok@gmail.com
-theme: jekyll-theme-minimal
+theme: minimal
 description: > # this means to ignore newlines until "baseurl:"
   Blog about probabilistic machine learning
 
